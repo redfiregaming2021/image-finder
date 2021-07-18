@@ -1,0 +1,28 @@
+.heading {
+    width: 1500px;
+    height: 200px;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+}
+.heading_div {
+    float: none;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    font-size: 30px;
+    box-shadow: 5px 5px 15px yellow;
+}
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px blue;
+    margin-top: 150px;
+  }
+.result_para_tag {
+    font-size: 20px;
+    box-shadow: 5px 5px 15px green;
+}
+.result_para_tag span {
+    white-space: pre-line;
+}
